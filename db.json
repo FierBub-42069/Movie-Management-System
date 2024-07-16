@@ -1,0 +1,173 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "category": "Drama",
+      "releaseYear": 1994,
+      "language": "English",
+      "certification": "U",
+      "awards": "7 Academy Award nominations",
+      "views": "2345699",
+      "id": 1
+    },
+    {
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "category": "Sci-Fi",
+      "releaseYear": 2010,
+      "language": "English",
+      "certification": "UA",
+      "awards": "4 Academy Awards",
+      "views": 3456789,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "category": "Animation",
+      "releaseYear": 2001,
+      "language": "Japanese",
+      "certification": "U",
+      "awards": "Academy Award for Best Animated Feature",
+      "views": 1234567
+    },
+    {
+      "id": 4,
+      "title": "Parasite",
+      "director": "Bong Joon-ho",
+      "category": "Thriller",
+      "releaseYear": 2019,
+      "language": "Korean",
+      "certification": "A",
+      "awards": "4 Academy Awards including Best Picture",
+      "views": 4567890
+    },
+    {
+      "id": 5,
+      "title": "Your Name",
+      "director": "Makoto Shinkai",
+      "category": "Romance",
+      "releaseYear": 2016,
+      "language": "Japanese",
+      "certification": "UA",
+      "awards": "Crunhyroll Anime Award for Best Film",
+      "views": 5678901
+    },
+    {
+      "id": 6,
+      "title": "1917",
+      "director": "Sam Mendes",
+      "category": "War",
+      "releaseYear": 2019,
+      "language": "English",
+      "certification": "UA",
+      "awards": "3 Academy Awards",
+      "views": 6789012
+    },
+    {
+      "id": 7,
+      "title": "The Theory of Everything",
+      "director": "James Marsh",
+      "category": "Biography",
+      "releaseYear": 2014,
+      "language": "English",
+      "certification": "UA",
+      "awards": "Academy Award for Best Actor",
+      "views": 7890123
+    },
+    {
+      "id": 8,
+      "title": "Steve Jobs",
+      "director": "Danny Boyle",
+      "category": "Biography",
+      "releaseYear": 2015,
+      "language": "English",
+      "certification": "UA",
+      "awards": "2 Academy Award nominations",
+      "views": 8901234
+    },
+    {
+      "id": 10,
+      "title": "Sairat",
+      "director": "Nagraj Manjule",
+      "category": "Romance",
+      "releaseYear": 2016,
+      "language": "Marathi",
+      "certification": "UA",
+      "awards": "National Film Award - Special Jury Award",
+      "views": 123456
+    },
+    {
+      "id": 11,
+      "title": "RRR",
+      "director": "S. S. Rajamouli",
+      "category": "Action",
+      "releaseYear": 2022,
+      "language": "Telugu",
+      "certification": "UA",
+      "awards": "Academy Award for Best Original Song - Naatu Naatu",
+      "views": 1527835
+    },
+    {
+      "id": 12,
+      "title": "Joker",
+      "director": "Todd Phillips",
+      "category": "Thriller",
+      "releaseYear": 2019,
+      "language": "English",
+      "certification": "A",
+      "awards": "2 Academy Awards",
+      "views": 982539
+    },
+    {
+      "title": "Oppenheimer",
+      "director": "Christopher Nolan",
+      "category": "Biography",
+      "releaseYear": "2023",
+      "language": "English",
+      "certification": "A",
+      "awards": "Academy Award for Best Picture",
+      "views": "264716",
+      "id": 13
+    },
+    {
+      "title": "Avengers: Endgame",
+      "director": "Anthony & Joe Russo",
+      "category": "Sci-Fi",
+      "releaseYear": "2019",
+      "language": "English",
+      "certification": "UA",
+      "awards": "Academy Award for Special Effects",
+      "views": "573116",
+      "id": 14
+    }
+  ],
+  "categories": [
+    "Drama",
+    "Sci-Fi",
+    "Animation",
+    "Thriller",
+    "Romance",
+    "War",
+    "Biography",
+    "Action"
+  ],
+  "languages": [
+    "English",
+    "Marathi",
+    "Hindi",
+    "Telugu",
+    "Japanese",
+    "Korean"
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ]
+}
